@@ -1,0 +1,44 @@
+body{
+background-color: black;
+color: white;
+}
+
+.blanco{background-color: white; color: black;}
+
+.verde{background-color: green;}
+
+.RecA{
+width: 400px;
+padding: 0px;
+}
+.RecB{
+height: 90px;
+width: 45px;
+padding: 90px;
+}
+
+.posicion{
+position: relative;
+top: 50px;
+left: 520px;
+}
+.posa{
+    position: relative;
+    top: 70px;
+    left: 520;
+}
+ .escudo{
+    position: relative;
+    top: -15px;
+    left: 280px;
+
+    width: 100px;
+    height: 100px;
+ }
+
+ .posT{
+position: relative;
+top: 50px;
+left: 20px;
+ }
+ 
